@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/flipgame/static/css/main.0374c494.chunk.css",
+    "main.js": "/flipgame/static/js/main.9ce3f3e2.chunk.js",
+    "main.js.map": "/flipgame/static/js/main.9ce3f3e2.chunk.js.map",
+    "runtime-main.js": "/flipgame/static/js/runtime-main.091c4671.js",
+    "runtime-main.js.map": "/flipgame/static/js/runtime-main.091c4671.js.map",
+    "static/js/2.bd6fec8b.chunk.js": "/flipgame/static/js/2.bd6fec8b.chunk.js",
+    "static/js/2.bd6fec8b.chunk.js.map": "/flipgame/static/js/2.bd6fec8b.chunk.js.map",
+    "index.html": "/flipgame/index.html",
+    "static/css/main.0374c494.chunk.css.map": "/flipgame/static/css/main.0374c494.chunk.css.map",
+    "static/js/2.bd6fec8b.chunk.js.LICENSE.txt": "/flipgame/static/js/2.bd6fec8b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/flipgame/static/media/sass.8ec16938.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.091c4671.js",
+    "static/js/2.bd6fec8b.chunk.js",
+    "static/css/main.0374c494.chunk.css",
+    "static/js/main.9ce3f3e2.chunk.js"
+  ]
+}
